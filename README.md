@@ -14,7 +14,7 @@
 
 Я' Суховерский Владимир! 
 - <i>Currently:</Я> Выпустник школы Алгоритмика. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+- <i>Previously:</Я> .
 
 
 <h2>💻 I'm Currently workng on</h2>
