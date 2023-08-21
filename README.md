@@ -20,8 +20,9 @@
 <h2>💻 I'm Currently workng on</h2>
 
 
-- System Design and Distributed Computing
-- Software Engineering
+- Создание сайтов
+- И изменение внешнего вида сайта
+  
 
 
 
